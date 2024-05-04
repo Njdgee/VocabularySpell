@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaVocabulary">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="JavaVocabulary.jar">
+      <element id="module-output" name="VocabularyTest" />
+    </root>
+  </artifact>
+</component>

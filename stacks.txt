@@ -1,0 +1,10 @@
+u1@u1.txt
+u2@u2.txt
+u3@u3.txt
+u4@u4.txt
+u5@u5.txt
+u6@u6.txt
+hfu3@HF-u3.txt
+an@atomic_number_1_to_30.txt
+ve@valence_electron_1_to_30.txt
+bo@bonding_1A_to_8A.txt

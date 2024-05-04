@@ -1,0 +1,17 @@
+asset@n. 資產，財產
+token@n. 代幣，象徵
+format@n. 格式，樣式
+embrace@v 欣然接受，擁抱
+investment@n. 投資
+equivalent@adj. 相等的，等值的
+property@n. 財產，資產
+possessio@n. 財產，所有物
+negotiate@v. 談判，協商
+transaction@n. 交易，買賣
+trail@n. 蹤跡，小徑
+ensure@v. 確保，保證
+exclusive@adj. 獨有的，獨佔的
+ownership@n. 所有權，物主身份
+gurantee@n. 保證，擔保
+domain name@n. 網域名稱
+
