@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class Stack {
-    @Getter private static HashMap<String,Stack> stacks = new HashMap<>();
+    @Getter public static HashMap<String,Stack> stacks = new HashMap<>();
     @Getter private List<Word> words;
     @Getter private String name;
     @Getter private String filename;
