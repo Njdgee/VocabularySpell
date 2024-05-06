@@ -20,5 +20,18 @@
             <version>1.18.32</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-media</artifactId>
+            <version>23-ea+3</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-swing</artifactId>
+            <version>23-ea+3</version>
+        </dependency>
+
     </dependencies>
 </project>
